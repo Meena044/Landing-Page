@@ -7,24 +7,21 @@ body{
 .title{
     color: #f9faf8;
     font-size: 24px;
+    font-weight: 600;
 }
 .header{
     background-color: #1F2937;
     display: flex;
     flex-direction: column;
-    padding: 15px 100px;
+    padding: 15px 180px;
+    height: 70vh;
 }
 .header-text{
     display: flex;
-    /* justify-content: flex-end; */
+    justify-content: space-between;
     gap: 200px;
-    
+    margin-bottom: 100px;
 }
-/* .links{
-    /* gap: 10px; */
-    /* justify-content: flex-end;
-    display: flex;
-} */ */
 
 .main{
     display: flex;
@@ -32,12 +29,17 @@ body{
     gap: 120px;
     flex-direction: row;
 }
+img{
+    display: inline;
+    width: 300px;
+}
 
 .text{
     color: #f9faf8;
     font-size: 48px;
     font-weight: 900;
-    width: 300px;
+    width: 400px;
+    margin-bottom: 8px;
 }
 
 a, .subtext{
@@ -48,11 +50,15 @@ a, .subtext{
 ul{
     list-style: none;
     display: flex;
-    justify-content: flex-end;
     gap: 30px;
 }
 
-
+h1{
+    font-size: 36px;
+    text-align: center;
+    color: #1F2937;
+    font-weight: 900;
+}
 a{
     text-decoration: none;
     
@@ -66,9 +72,30 @@ button{
     color: white;
     font-size: 18px;
     font-weight: 600;
+    margin: 8px 0;
 }
 
-.box{
-    width: 300px;
-    background-color: #1F2937;
+.second div{
+    margin: 30px;
+    gap: 60px;
+}
+
+.third{
+    background-color: #e5e7eb;
+    height: 30vh;
+    justify-content: center;
+    align-items: center;
+    padding: 150px;
+    display: flex;
+    flex-direction: column;
+}
+#quote{
+    color: #1F2937;
+    text-align: center;
+    font-size: 36px;
+    font-style: italic;
+}
+
+#author{
+    text-align: right;
 }
