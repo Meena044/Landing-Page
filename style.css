@@ -26,12 +26,14 @@ body{
 .main{
     display: flex;
     flex-wrap: wrap;
-    gap: 120px;
+    /* gap: 90px; */
     flex-direction: row;
+    position: relative;
+    justify-content: space-between;
 }
 img{
-    display: inline;
     width: 300px;
+    /* height: 200px; */
 }
 
 .text{
@@ -40,6 +42,10 @@ img{
     font-weight: 900;
     width: 400px;
     margin-bottom: 8px;
+}
+.subtext{
+    width: 500px;
+    padding: 10px 0;
 }
 
 a, .subtext{
