@@ -32,7 +32,9 @@ This project gave me hands-on experience with building layouts that adjust fluid
 All the artwork used in this landing page — was hand-drawn by me!  
 This project combines both my coding and artistic skills into one creative space.
 
-## Screenshots
+## Demo
+
+https://meena044.github.io/Landing-Page/
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/8ec767d3-7e2a-474a-8669-cbc523338a98" />
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/1b56f7c0-7779-4ecc-95b7-596532fe8f42" />
