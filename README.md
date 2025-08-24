@@ -7,7 +7,7 @@ A responsive landing page built with **HTML and CSS only**.
 - Fully **responsive** layout using **CSS Flexbox**  
 - Smooth resizing and wrapping of content  
 - Image and text aligned side-by-side on larger screens  
-- Stacks vertically on smaller screens (mobile-friendly)
+- Stacks vertically on smaller screens
 
 ## Technologies
 
